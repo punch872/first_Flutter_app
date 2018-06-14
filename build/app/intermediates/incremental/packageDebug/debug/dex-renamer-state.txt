@@ -1,0 +1,4 @@
+#Thu Jun 14 11:27:51 ICT 2018
+base.0=/Users/k.punchok/my_first_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
